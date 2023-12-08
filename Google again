@@ -1,3 +1,5 @@
+#!name=Google重定向
+#!desc=Google的神级重定向功能
 hostname = www.google.cn,www.firefox.com.cn,api.*.abema-tv.com,app.biliintl.com,passport.biliintl.com
 
 # Redirect Google Search Service
